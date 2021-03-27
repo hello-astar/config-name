@@ -1,0 +1,26 @@
+{
+  "name": "astar-cli",
+  "version": "1.0.0",
+  "description": "a tool for myself to change author name automatically",
+  "main": "index.js",
+  "bin": {
+    "astar-cli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hello-astar/astar-cli.git"
+  },
+  "keywords": [
+    "command",
+    "nodejs"
+  ],
+  "author": "astar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hello-astar/astar-cli/issues"
+  },
+  "homepage": "https://github.com/hello-astar/astar-cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
